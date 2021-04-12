@@ -4,5 +4,5 @@ IBM data science professional certification's Capstone project repository for ju
 
 Demo added and Functions added  
 
-view this file by clicking below as github is not loading the notebook
+view the coursera capstone file by clicking below as github is not loading the notebook
 https://nbviewer.jupyter.org/github/kunalshekhar223/Coursera_Capstone/blob/main/coursera%20capstone.ipynb
